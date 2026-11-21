@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello, I'm [Your Name]!
 
-<!--
-**Kostas0810/Kostas0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics graduate and MBA in Sustainability candidate, interested in sustainable finance, financial analysis and the role of technology in business.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sustainable Finance & ESG
+- Climate Risk & Financial Stability
+- Economics & Financial Markets
+- Data Analytics
+- Technology & Programming
+
+## Background
+
+- **Education:** BSc in Economics
+- **Postgraduate Studies:** MBA in Sustainability — Thesis in progress
+- **Experience:** Sustainability Center, Piraeus Bank
+
+## Currently working on
+
+- Completing my MBA thesis
+- Exploring climate-related financial risks and sustainability disclosures
+- Developing my data analysis skills
+- Learning Python and SQL
+
+## Skills & Tools
+
+- **Data & Productivity:** Microsoft Excel, PowerPoint
+- **Programming:** Python (learning), SQL (learning)
+- **Areas of Knowledge:** Sustainability, ESG, Financial Analysis, Climate Risk
+
+## Beyond Work
+
+- Football & Basketball
+- Gaming
+- Cooking
+- Travelling
+- Continuous Learning
+
+## Setup
+
+| Machine | Environment |
+|---|---|
+| Desktop | Windows |
+| Tools | VS Code, Excel, GitHub |
+
