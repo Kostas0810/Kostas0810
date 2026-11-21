@@ -1,6 +1,7 @@
-# Hello, I'm [Your Name]!
+# Hi, I'm Kostas!
 
-Economics graduate and MBA in Sustainability candidate, interested in sustainable finance, financial analysis and the role of technology in business.
+[MBA in Sustainability](https://www.mbasustainability.unipi.gr/en/) candidate at [University of Piraeus](https://www.unipi.gr/). 
+Economic Science graduate from [University of Macedonia](https://www.uom.gr/en).
 
 ## Interests
 
