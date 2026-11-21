@@ -1,6 +1,6 @@
 # Hi, I'm Kostas!
 
-[MBA in Sustainability](https://www.mbasustainability.unipi.gr/en/) candidate at [University of Piraeus](https://www.unipi.gr/). 
+[MBA in Sustainability](https://www.mbasustainability.unipi.gr/en/) candidate at [University of Piraeus](https://www.unipi.gr/).                
 Economic Science graduate from [University of Macedonia](https://www.uom.gr/en).
 
 ## Interests
